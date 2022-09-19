@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishav Saha</h1> <img align="right" alt="Coding" width="40" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966">
+<h1 align="center">Hi 👋, I'm Rishav Saha <img align="right" alt="Coding" width="40" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
 <h3 align="center">I'm a B.Tech. CSE student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0505&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0505" /> </p>
