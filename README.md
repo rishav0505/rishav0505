@@ -1,6 +1,8 @@
 <h1 align="center">नमस्ते👋, I'm Rishav Saha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0505&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0505" /> </p>
 
+I'm a B.Tech. CSE student.
+
 - 📫 How to reach me **rishav05saha3663@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
