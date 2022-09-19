@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav0505&show_icons=true&locale=en" alt="rishav0505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav0505&" alt="rishav0505" /></p>
-
-- 📫 How to reach me **rishav05saha3663@gmail.com**
