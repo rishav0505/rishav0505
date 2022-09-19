@@ -1,6 +1,7 @@
 <h1 align="center">नमस्ते👋, I'm Rishav Saha <img align="centre" alt="Coding" width="50" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0505&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0505" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+
 - 📫 How to reach me **rishav05saha3663@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -20,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav0505&show_icons=true&locale=en" alt="rishav0505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav0505&" alt="rishav0505" /></p>
+
+- 📫 How to reach me **rishav05saha3663@gmail.com**
