@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rishav05saha3663@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact 
 
 
 </p>
