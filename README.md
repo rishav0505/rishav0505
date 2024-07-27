@@ -1,5 +1,5 @@
-<h1 align="center">नमस्ते👋, I'm Rishav Saha <img align="centre" alt="Coding" width="50" src=""> </h1>
-
+<h1 align="center">नमस्ते👋, I'm Rishav Saha 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0505&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0505" /> </p>
 <!--
 <p align="center">
 <a href="https://www.youtube.com/channel/UCDleX1NQh_Jw5F0TV7S_feQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
