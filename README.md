@@ -1,4 +1,7 @@
-<h1 align="center">नमस्ते👋, I'm Rishav Saha <img align="centre" alt="Coding" width="50" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
+<h1 align="center">नमस्ते👋, I'm Rishav Saha 
+
+<!--<img align="centre" alt="Coding" width="50" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
+-->
 <!--
 <p align="center">
 <a href="https://www.youtube.com/channel/UCDleX1NQh_Jw5F0TV7S_feQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
