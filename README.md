@@ -1,14 +1,6 @@
 <h1 align="center">नमस्ते👋, I'm Rishav Saha 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav0505&label=Profile%20views&color=0e75b6&style=flat" alt="rishav0505" /> </p>
-<!--
-<p align="center">
-<a href="https://www.youtube.com/channel/UCDleX1NQh_Jw5F0TV7S_feQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/rishav-saha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/Rishavs5734"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/schizoid_man__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/rishav.saha.355/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1200px-Facebook_New_Logo_%282015%29.svg.png" width="78px"></a>
-</p>
--->
+<p align="left"> <a href="https://www.linkedin.com/in/rishav-saha-65626222b/" target="blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="rishav0505" /></a> </p>
 <p align="left"> <img src="" alt="rishav0505" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
