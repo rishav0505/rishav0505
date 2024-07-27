@@ -1,7 +1,5 @@
-<h1 align="center">नमस्ते👋, I'm Rishav Saha 
+<h1 align="center">नमस्ते👋, I'm Rishav Saha <img align="centre" alt="Coding" width="50" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
 
-<!--<img align="centre" alt="Coding" width="50" src="https://camo.githubusercontent.com/b7f9d62b2005046802b89ffe2cca8e82509abe21ff0f53c22a9a07865fb38788/68747470733a2f2f632e74656e6f722e636f6d2f56725a4b6a47784949694141414141692f3132332e676966"> </h1>
--->
 <!--
 <p align="center">
 <a href="https://www.youtube.com/channel/UCDleX1NQh_Jw5F0TV7S_feQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -25,7 +23,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav0505&show_icons=true&locale=en&layout=compact" alt="rishav0505" /></p>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav0505&show_icons=true&locale=en" alt="rishav0505" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav0505&" alt="rishav0505" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav0505&" alt="rishav0505" /></p> 
+-->
